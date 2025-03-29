@@ -1,0 +1,4 @@
+[AutoRun]
+open=Tetris_Installer.bat
+icon=tetris.ico
+label=Tetris Game Installer
